@@ -1,0 +1,60 @@
+h1 {
+  color: blueviolet;
+}
+.about {
+  color: blueviolet;
+}
+.profile-img {
+  width: 200px;
+  height: 320px;
+}
+.contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: centre;
+  align-items: center;
+}
+.projects {
+  margin-left: 200px;
+  margin-top: 50px;
+}
+.project-title {
+  margin-left: 50px;
+}
+.project {
+  margin-left: 50px;
+}
+.tech-known {
+  margin-left: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 8%;
+  color: #08d9d6;
+}
+.tech-img1 {
+  margin-left: 60px;
+  height: 40px;
+}
+.tech-img2 {
+  margin-left: 80px;
+  height: 40px;
+}
+.tech-img3 {
+  margin-left: 65px;
+  height: 40px;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.project-desc {
+  color: #08d9d6;
+  font-style: italic;
+}
+.project-heading {
+  color: #ff2e63;
+  text-decoration: underline;
+}
